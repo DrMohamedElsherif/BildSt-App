@@ -1,0 +1,10 @@
+{
+    "dataset_link":"https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset",
+    "img_links":{
+    "img_links_1": "https://www.imperial.ac.uk/news/image/mainnews2012/33304.jpg",
+    "img_link_2": "https://th.bing.com/th/id/OIP.pyZ99psA1TuSsKRN6vBl_wHaEK?pid=ImgDet&rs=1",
+    "img_link_3": "https://static.startuptalky.com/2021/05/ml-in-healthcare-fi-startuptalky.jpg"
+    }, 
+    "youtube_video":"https://www.youtube.com/watch?v=3_PYnWVoUzM"
+
+}
